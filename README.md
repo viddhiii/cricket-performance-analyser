@@ -32,9 +32,9 @@ across 6,664 international cricket matches - Tests, ODIs and T20Is.
 - **Teams** - Country comparison across formats
 - **Player Search** - Search any international cricketer
 
-## ⚠️ Note
+## Note
 Data sourced from Cricsheet.org covering international matches up to 
 early 2025. Women's cricket analysis coming in next version.
 
-## 👩‍💻 Built by
-Vidhi Prajapati - Data Analytics Portfolio Project
+## Built by
+Vidhi Prajapati - Data Analytics Project
