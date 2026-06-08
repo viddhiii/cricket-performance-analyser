@@ -14,10 +14,10 @@ BASE = "/kaggle/input/notebooks/vidhi0405/cricket-performance-analyser"
 
 @st.cache_data
 def load_data():
-    batting  = pd.read_csv(f"{BASE}/batting_stats.csv")
-    bowling  = pd.read_csv(f"{BASE}/bowling_stats.csv")
-    team     = pd.read_csv(f"{BASE}/team_stats.csv")
-    matches  = pd.read_csv(f"{BASE}/matches.csv")
+    batting  = pd.read_csv("batting_stats.csv")
+    bowling  = pd.read_csv("bowling_stats.csv")
+    team     = pd.read_csv("team_stats.csv")
+    matches  = pd.read_csv("matches.csv")
     matches["date"] = pd.to_datetime(matches["date"])
     return batting, bowling, team, matches
 
