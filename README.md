@@ -1,7 +1,7 @@
 # 🏏 International Cricket Performance Analyser
 
 An interactive data analytics dashboard analysing **3.7 million deliveries** 
-across 6,664 international cricket matches — Tests, ODIs and T20Is.
+across 6,664 international cricket matches - Tests, ODIs and T20Is.
 
 ## 🔴 Live Demo
 👉 https://viddhiii-cricket-performance-analyser-app-gvihkz.streamlit.app
