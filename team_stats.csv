@@ -1,0 +1,132 @@
+team,format,matches_played,avg_runs,avg_wickets
+Australia,Test,228,562.08,15.24
+India,Test,216,550.0,15.23
+England,Test,272,544.06,15.99
+Sri Lanka,Test,173,539.39,16.25
+Pakistan,Test,157,527.03,16.36
+South Africa,Test,191,519.52,15.26
+New Zealand,Test,165,518.25,15.58
+Ireland,Test,10,482.1,19.6
+West Indies,Test,168,474.03,17.28
+Bangladesh,Test,120,473.92,17.92
+Zimbabwe,Test,49,457.63,19.47
+Australia,ODI,464,246.35,6.86
+India,ODI,516,246.33,6.48
+South Africa,ODI,385,243.62,6.56
+England,ODI,436,240.04,7.19
+Pakistan,ODI,415,235.23,7.29
+New Zealand,ODI,384,233.71,7.12
+Sri Lanka,ODI,477,228.17,7.51
+United States of America,ODI,71,221.83,7.9
+West Indies,ODI,383,218.07,7.61
+Bangladesh,ODI,323,214.42,7.69
+Scotland,ODI,111,213.49,7.32
+Ireland,ODI,131,212.6,7.68
+Zimbabwe,ODI,274,202.97,8.26
+Netherlands,ODI,88,202.43,8.15
+Oman,ODI,65,200.25,7.35
+United Arab Emirates,ODI,109,199.61,8.39
+Nepal,ODI,76,198.72,7.92
+Namibia,ODI,71,197.08,8.11
+Canada,ODI,61,192.75,8.41
+Papua New Guinea,ODI,56,185.98,9.07
+Hong Kong,ODI,17,181.41,8.29
+Kenya,ODI,40,178.62,8.2
+India,T20,265,163.16,5.31
+England,T20,219,159.37,6.16
+Hungary,T20,37,155.3,7.19
+Bermuda,ODI,12,155.0,8.92
+South Africa,T20,225,154.12,5.86
+Australia,T20,222,154.11,5.89
+New Zealand,T20,256,153.65,6.22
+Pakistan,T20,279,152.07,6.27
+West Indies,T20,237,151.46,6.39
+Austria,T20,61,149.13,6.1
+Qatar,T20,58,148.9,6.52
+Scotland,T20,94,148.87,6.38
+United States of America,T20,56,147.61,5.95
+Romania,T20,53,147.57,6.28
+Czech Republic,T20,36,146.86,6.69
+Gibraltar,T20,47,146.53,6.43
+Canada,T20,75,146.47,5.76
+Bulgaria,T20,47,145.91,6.79
+Sri Lanka,T20,220,145.84,6.8
+Belgium,T20,36,145.75,7.28
+Zimbabwe,T20,171,145.48,6.69
+Malta,T20,66,144.32,7.17
+Nepal,T20,109,144.29,6.48
+Japan,T20,51,143.8,6.71
+Portugal,T20,36,143.72,6.25
+Cyprus,T20,33,143.64,7.06
+Saudi Arabia,T20,49,143.61,6.18
+Namibia,T20,91,142.54,5.71
+Netherlands,T20,116,142.5,6.47
+Jersey,T20,44,142.34,6.41
+Bangladesh,T20,191,142.07,6.8
+Ireland,T20,148,141.69,6.62
+Kuwait,T20,68,140.71,6.4
+United Arab Emirates,T20,125,140.58,6.22
+Luxembourg,T20,40,138.75,7.15
+Denmark,T20,40,138.15,6.85
+Estonia,T20,29,137.34,6.66
+Switzerland,T20,30,137.3,5.97
+Bahrain,T20,109,136.53,5.72
+Fiji,T20,11,136.45,8.45
+Italy,T20,38,136.13,6.42
+Singapore,T20,67,136.0,7.1
+Papua New Guinea,T20,58,135.12,6.52
+Hong Kong,T20,114,135.06,6.57
+France,T20,40,135.05,7.5
+Sweden,T20,37,134.78,6.92
+Malaysia,T20,108,133.85,6.04
+Uganda,T20,102,132.54,5.87
+Oman,T20,101,132.18,6.67
+Samoa,T20,23,131.09,7.13
+Serbia,T20,32,130.62,6.66
+Germany,T20,56,130.34,5.86
+Tanzania,T20,73,128.86,6.53
+Zambia,T20,10,128.8,7.8
+Bermuda,T20,46,128.76,5.72
+Norway,T20,48,127.67,7.21
+Vanuatu,T20,31,127.16,6.74
+Kenya,T20,94,126.64,6.03
+Spain,T20,42,126.38,4.93
+Mozambique,T20,22,123.32,6.23
+Cambodia,T20,38,122.79,5.68
+Cook Islands,T20,16,122.06,6.56
+Guernsey,T20,34,122.0,5.91
+Turkey,T20,15,121.07,8.6
+Finland,T20,30,119.6,8.1
+Philippines,T20,39,118.1,6.72
+Nigeria,T20,91,117.22,6.81
+Slovenia,T20,15,115.2,9.07
+Cayman Islands,T20,41,114.85,6.27
+Isle of Man,T20,19,114.84,6.79
+Eswatini,T20,19,112.95,7.21
+Argentina,T20,31,112.23,6.06
+Indonesia,T20,97,111.41,6.04
+Botswana,T20,51,108.76,6.53
+Bhutan,T20,43,108.65,7.88
+Malawi,T20,41,107.8,5.95
+Maldives,T20,37,107.7,7.14
+Rwanda,T20,95,107.39,7.32
+South Korea,T20,17,106.82,8.41
+Ghana,T20,42,106.74,7.02
+Greece,T20,10,104.1,8.1
+Mexico,T20,28,103.68,7.71
+Thailand,T20,61,102.61,7.05
+Brazil,T20,16,100.88,7.44
+Sierra Leone,T20,39,98.87,7.41
+Belize,T20,12,98.75,7.92
+Panama,T20,23,97.35,8.35
+Suriname,T20,14,96.43,7.5
+Bahamas,T20,28,95.82,7.68
+Croatia,T20,28,87.89,8.61
+Seychelles,T20,18,87.17,7.0
+St Helena,T20,12,83.83,7.25
+Lesotho,T20,16,79.62,9.19
+Myanmar,T20,30,77.57,7.33
+Costa Rica,T20,12,71.5,8.0
+Cameroon,T20,15,63.47,8.8
+Mali,T20,10,39.6,9.2
+Mongolia,T20,14,37.29,9.21
